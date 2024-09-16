@@ -15,6 +15,7 @@ Wraps other text in paragraph tags (`<p>`).
 # Usage
 ## Command-line Arguments
 -input: Specifies the input Markdown file. If omitted, the program will read from standard input.
+
 -output: Specifies the output HTML file. If omitted, the program will print the HTML to standard output.
 
 Examples
