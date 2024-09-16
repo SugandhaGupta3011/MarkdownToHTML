@@ -1,6 +1,8 @@
 # Markdown to HTML Converter
 This Go program converts Markdown text into HTML format. It reads input from a file or standard input, processes the Markdown to generate HTML, and either outputs the result to a file or prints it to standard output.
 
+## Github Link - `https://github.com/SugandhaGupta3011/MarkdownToHTML`
+
 ## Features
 Supports conversion of headers (e.g., `# Header 1`, `## Header 2`) into appropriate HTML header tags (`<h1>, <h2>`, etc.).
 Converts Markdown links in the format `[link text](URL)` into HTML anchor tags (`<a href="URL">link text</a>`).
